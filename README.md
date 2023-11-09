@@ -1,3 +1,7 @@
+![DATA_SCIENCE_AdobeStock-294794307](https://github.com/Osigwem/Osigwem/assets/146824911/7af57163-d068-4183-b238-1401259f55e8)
+
+
+
 <div align="center"> <h1 align="center"> Hi 👋, I'm Osi Mohammed  </h1> </div>
 
 ## A Passionate Data Analyst
