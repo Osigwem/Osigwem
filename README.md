@@ -1,6 +1,4 @@
-![DATA_SCIENCE_AdobeStock-294794307](https://github.com/Osigwem/Osigwem/assets/146824911/7af57163-d068-4183-b238-1401259f55e8)
-
-
+![233242](https://github.com/Osigwem/Osigwem/assets/146824911/17441524-4018-46a9-8db6-3b2be2d67826)
 
 <div align="center"> <h1 align="center"> Hi 👋, I'm Osi Mohammed  </h1> </div>
 
