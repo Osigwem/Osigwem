@@ -1,5 +1,6 @@
-<div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1> </div>
-<b>Hi, My name is Osi. I am a data professional.<b>
+<div align="center"> <h1 align="center"> Hi There! I am a Data Analyst. 👋 </h1> </div>
+
+<b>Hi, My name is Osi. I am a data professional. I dive deep into datasets to uncover meaningful insights, turning raw numbers into actionable decisions. I thrive on the challenge of making data-driven solutions come to life and ensuring they deliver real value <b>
 
 <p></p>
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
